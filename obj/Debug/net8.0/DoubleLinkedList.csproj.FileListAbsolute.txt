@@ -1,0 +1,14 @@
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.exe
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.deps.json
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.runtimeconfig.json
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.dll
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\bin\Debug\net8.0\DoubleLinkedList.pdb
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.AssemblyInfoInputs.cache
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.AssemblyInfo.cs
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.dll
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\refint\DoubleLinkedList.dll
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.pdb
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\DoubleLinkedList.genruntimeconfig.cache
+D:\BootCamp\DSA\DoubleLinkedList\DoubleLinkedList\obj\Debug\net8.0\ref\DoubleLinkedList.dll
